@@ -6,19 +6,14 @@ namespace FirstApp
     {
         public static void Main()
         {
-            string strValue = "Infotech Academy";
-            int intValue = 15;
-            string result = string.Empty;
+            string adi = "Afife";
+            string soyadi = "Çimen";
+            int yas = 23;
+            double kilo = 24.2;
 
-            Console.WriteLine("Merhaba Sınıf");
-
-            Console.WriteLine("String Value : " + strValue + " İntValue : " + intValue);
-            Console.WriteLine($"String Value : {strValue} İntValue : {intValue}");
-            Console.WriteLine("String Value : {0} İntValue : {1}", strValue, intValue);
-
-            Console.WriteLine(result);
-
-            InfoTech.yazdir();
+            Console.WriteLine("Adı : {0}\nSoyadı :  {1} {2} {3}", adi,soyadi,yas, kilo);
+            Console.Write("Adı : " + adi + "Soyadı : " + soyadi + "Yaş : " + yas + "Kilo : " + kilo);
+            Console.WriteLine($"Adı : {adi} Soyadı : {soyadi} Yaş : {yas} Kilo : {kilo}");
 
             /* Ürün Adı : Elma
              * Ürün Adı : Karpuz
