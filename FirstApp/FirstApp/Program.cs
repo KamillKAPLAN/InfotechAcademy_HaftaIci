@@ -6,7 +6,7 @@ namespace FirstApp
     {
         public static void Main()
         {
-            string strValue = "Infotech";
+            string strValue = "Infotech Academy";
             int intValue = 15;
             string result = string.Empty;
 
