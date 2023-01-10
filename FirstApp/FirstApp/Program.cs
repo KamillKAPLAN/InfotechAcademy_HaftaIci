@@ -6,19 +6,33 @@ namespace FirstApp
     {
         public static void Main()
         {
-            string adi = "Afife";
-            string soyadi = "Çimen";
-            int yas = 23;
-            double kilo = 24.2;
+            string[] meyveler = { "Elma", "Karpuz", "Vişne", "Kivi" };
+            for (int i = 0; i < meyveler.Length; i++)
+                Console.WriteLine($"{i+1}. Ürün Adı : " + meyveler[i]);
 
-            Console.WriteLine("Adı : {0}\nSoyadı :  {1} {2} {3}", adi,soyadi,yas, kilo);
-            Console.Write("Adı : " + adi + "Soyadı : " + soyadi + "Yaş : " + yas + "Kilo : " + kilo);
-            Console.WriteLine($"Adı : {adi} Soyadı : {soyadi} Yaş : {yas} Kilo : {kilo}");
+            Console.WriteLine("--------------");
+
+            foreach (var item in meyveler)
+                Console.WriteLine("Ürün Adı : " + item);
+
+            Console.WriteLine("--------------");
+
+            List<string> listMeyveler = new List<string>();
+            listMeyveler.Add("Vişne");
+            listMeyveler.Add("Elma");
+            listMeyveler.Add("Kivi");
+            listMeyveler.Add("Karpuz");
+            foreach (var item in listMeyveler)
+                Console.WriteLine("List Meyve Ürün Adı : " + item);
+
+            Console.WriteLine("--------------");
+
 
             /* Ürün Adı : Elma
              * Ürün Adı : Karpuz
              * Ürün Adı : Vişne
              */
         }
+
     }
 }
