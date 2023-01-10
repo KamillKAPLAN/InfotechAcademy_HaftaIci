@@ -6,33 +6,40 @@ namespace FirstApp
     {
         public static void Main()
         {
-            string[] meyveler = { "Elma", "Karpuz", "Vişne", "Kivi" };
-            for (int i = 0; i < meyveler.Length; i++)
-                Console.WriteLine($"{i+1}. Ürün Adı : " + meyveler[i]);
+            string[] strings = { "", "", "" };
+            List<string> list = new List<string>();
 
-            Console.WriteLine("--------------");
+            List<InfotechPeople> infotechPersons = new List<InfotechPeople>();
+            infotechPersons.Add(new InfotechPeople() { Id = 0, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age =30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 1, TC = "12345678912", Ad = "Melih", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 2, TC = "12345678912", Ad = "Ece", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 3, TC = "12345678912", Ad = "Kübra", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 4, TC = "12345678912", Ad = "Süleyman", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 5, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 6, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 7, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 8, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 9, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 10, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age = 30 });
+            infotechPersons.Add(new InfotechPeople() { Id = 11, TC = "12345678912", Ad = "Kamil", Soyad = "Kaplan", Age = 30 });
 
-            foreach (var item in meyveler)
-                Console.WriteLine("Ürün Adı : " + item);
+            for (int i = 0; i < infotechPersons.Count; i++)
+            {
+                Console.WriteLine($"Id : {infotechPersons[i].Id + 1}\nTc : {infotechPersons[i].TC}\nAd : {infotechPersons[i].Ad}\n");
+            }
 
-            Console.WriteLine("--------------");
-
-            List<string> listMeyveler = new List<string>();
-            listMeyveler.Add("Vişne");
-            listMeyveler.Add("Elma");
-            listMeyveler.Add("Kivi");
-            listMeyveler.Add("Karpuz");
-            foreach (var item in listMeyveler)
-                Console.WriteLine("List Meyve Ürün Adı : " + item);
-
-            Console.WriteLine("--------------");
-
-
-            /* Ürün Adı : Elma
-             * Ürün Adı : Karpuz
-             * Ürün Adı : Vişne
+            /* Id     : 1
+             * Tc     : 12345678912
+             * Adı    : Kamil
+             * Soyadı : Kaplan
+             * Age    : 30
+             * 
+             * Id     : 2
+             * Tc     : 98765412365
+             * Adı    : Melih
+             * Soyadı : Kaplan
+             * Age    : 24
              */
         }
-
     }
 }
