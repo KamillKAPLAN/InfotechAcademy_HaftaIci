@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\css\\templatemo-woox-travel.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-woox-travel.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\about-content-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-content-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\best-01.jpg",
+      "PackagePath": "staticwebassets\\images\\best-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\best-02.jpg",
+      "PackagePath": "staticwebassets\\images\\best-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\best-03.jpg",
+      "PackagePath": "staticwebassets\\images\\best-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\best-04.jpg",
+      "PackagePath": "staticwebassets\\images\\best-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\best-05.jpg",
+      "PackagePath": "staticwebassets\\images\\best-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\cities-01.jpg",
+      "PackagePath": "staticwebassets\\images\\cities-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\cities-02.jpg",
+      "PackagePath": "staticwebassets\\images\\cities-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\cities-03.jpg",
+      "PackagePath": "staticwebassets\\images\\cities-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\cities-04.jpg",
+      "PackagePath": "staticwebassets\\images\\cities-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\country-01.jpg",
+      "PackagePath": "staticwebassets\\images\\country-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\country-02.jpg",
+      "PackagePath": "staticwebassets\\images\\country-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\country-03.jpg",
+      "PackagePath": "staticwebassets\\images\\country-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\deals-01.jpg",
+      "PackagePath": "staticwebassets\\images\\deals-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\deals-02.jpg",
+      "PackagePath": "staticwebassets\\images\\deals-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\deals-03.jpg",
+      "PackagePath": "staticwebassets\\images\\deals-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\deals-04.jpg",
+      "PackagePath": "staticwebassets\\images\\deals-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\hb.ico",
+      "PackagePath": "staticwebassets\\images\\hb.ico"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\heading-bg-02.jpg",
+      "PackagePath": "staticwebassets\\images\\heading-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\offers-01.jpg",
+      "PackagePath": "staticwebassets\\images\\offers-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\offers-02.jpg",
+      "PackagePath": "staticwebassets\\images\\offers-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\images\\offers-03.jpg",
+      "PackagePath": "staticwebassets\\images\\offers-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\popup.js",
+      "PackagePath": "staticwebassets\\js\\popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Infotech Academy\\Desktop\\KK_Haftaİçi\\Travel\\Travel\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Travel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Travel.props",
+      "PackagePath": "build\\Travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Travel.props",
+      "PackagePath": "buildMultiTargeting\\Travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Travel.props",
+      "PackagePath": "buildTransitive\\Travel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

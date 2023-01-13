@@ -1,0 +1,5 @@
+C:\Users\Infotech Academy\Desktop\KK_Haftaİçi\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.csproj.AssemblyReference.cache
+C:\Users\Infotech Academy\Desktop\KK_Haftaİçi\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\Desktop\KK_Haftaİçi\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\Desktop\KK_Haftaİçi\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.AssemblyInfo.cs
+C:\Users\Infotech Academy\Desktop\KK_Haftaİçi\FirstApp\FirstApp\obj\Debug\net5.0\FirstApp.csproj.CoreCompileInputs.cache

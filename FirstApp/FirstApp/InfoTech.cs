@@ -140,5 +140,91 @@ namespace newwww
             }
             while (k > 5);
         }
+
+        void orn5()
+        {
+            Console.Write("Sınıf bilginizi giriniz : ");
+            int sinif = Convert.ToInt32(Console.ReadLine());
+            // sinif = int.Parse(Console.ReadLine());
+            switch (sinif)
+            {
+                case 0: break;
+                case 1: Console.WriteLine("1.Sınıf"); break;
+                case 2: Console.WriteLine("2.Sınıf"); break;
+                case 3: Console.WriteLine("3.Sınıf"); break;
+                case 4: Console.WriteLine("4.Sınıf"); break;
+                default: Console.WriteLine("Uzatmışsın"); break;
+            }
+
+            if (sinif == 1)
+                Console.WriteLine("1.Sınıf");
+            else if (sinif == 2)
+                Console.WriteLine("2.Sınıf");
+            else if (sinif == 3)
+                Console.WriteLine("3.Sınıf");
+            else if (sinif == 4)
+                Console.WriteLine("4.Sınıf");
+            else
+                Console.WriteLine("Uzatmışsın");
+        }
+
+        void orn6()
+        {
+            string s = new string('K', 10);
+            Console.WriteLine(s);
+            /*
+                x     y       &&       ||         !&&                  !||            
+              TRUE  TRUE   | TRUE   | TRUE   | !(x && y) : FALSE  | !(x || y) : FALSE
+              TRUE  FALSE  | FALSE  | TRUE   | !(x && y) : TRUE   | !(x || y) : FALSE  
+              FALSE TRUE   | FALSE  | TRUE   | !(x && y) : TRUE   | !(x || y) : FALSE
+              FALSE FALSE  | FALSE  | FALSE  | !(x && y) : TRUE   | !(x || y) : TRUE  
+             */
+
+            /* X tablomda adi alanı ve yaş alanı
+             *
+             * adi == "KAMİL" && yas == 15
+             * 
+             */
+        }
+
+        void orn7()
+        {
+            int x = Int32.Parse(Console.ReadLine());
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            if (x == y)
+                Console.WriteLine("==");
+            if (x < y)
+                Console.WriteLine("<");
+            if (x > y)
+                Console.WriteLine(">");
+            if (x != y)
+                Console.WriteLine("!=");
+            if (x >= y)
+                Console.WriteLine(">=");
+            if (x <= y)
+                Console.WriteLine("<=");
+
+            object i = "50";
+            Console.WriteLine((i as string).GetType());
+        }
+
+        void orn8()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                if (i == 4)
+                    continue;
+                Console.WriteLine(i);
+            }
+
+            Random rnd = new Random();
+            int ilkDeger = rnd.Next();
+            Console.WriteLine($"ilkDeger : {ilkDeger}");
+            int ikinciDeger = rnd.Next(5);
+            Console.WriteLine($"ikinciDeger : {ikinciDeger}");
+            int ucuncuDeger = rnd.Next(10, 20);
+            Console.WriteLine($"ucuncuDeger : {ucuncuDeger}");
+        }
     }
 }
